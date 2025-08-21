@@ -1,0 +1,1127 @@
+[
+        {
+            "level": "Easy",
+            "spanish": "Hola, ¿cómo estás?",
+            "english": "Hi, how are you?"
+        },
+        {
+            "level": "Easy",
+            "spanish": "Me llamo Ana.",
+            "english": "My name is Ana."
+        },
+        {
+            "level": "Easy",
+            "spanish": "¿Dónde está el baño?",
+            "english": "Where is the bathroom?"
+        },
+        {
+            "level": "Easy",
+            "spanish": "Quiero un café, por favor.",
+            "english": "I want a coffee, please."
+        },
+        {
+            "level": "Easy",
+            "spanish": "Gracias por tu ayuda.",
+            "english": "Thank you for your help."
+        },
+        {
+            "level": "Easy",
+            "spanish": "Estoy aprendiendo español.",
+            "english": "I’m learning Spanish."
+        },
+        {
+            "level": "Easy",
+            "spanish": "No entiendo.",
+            "english": "I don’t understand."
+        },
+        {
+            "level": "Easy",
+            "spanish": "¿Cuánto cuesta esto?",
+            "english": "How much does this cost?"
+        },
+        {
+            "level": "Easy",
+            "spanish": "Vivo en Caracas.",
+            "english": "I live in Caracas."
+        },
+        {
+            "level": "Easy",
+            "spanish": "Tengo hambre.",
+            "english": "I’m hungry."
+        },
+        {
+            "level": "Easy",
+            "spanish": "¿Puedes ayudarme?",
+            "english": "Can you help me?"
+        },
+        {
+            "level": "Easy",
+            "spanish": "Estoy cansado.",
+            "english": "I’m tired."
+        },
+        {
+            "level": "Easy",
+            "spanish": "Buenos días.",
+            "english": "Good morning."
+        },
+        {
+            "level": "Easy",
+            "spanish": "Buenas noches.",
+            "english": "Good night."
+        },
+        {
+            "level": "Easy",
+            "spanish": "Lo siento mucho.",
+            "english": "I’m very sorry."
+        },
+        {
+            "level": "Easy",
+            "spanish": "¿Qué hora es?",
+            "english": "What time is it?"
+        },
+        {
+            "level": "Easy",
+            "spanish": "Esto es delicioso.",
+            "english": "This is delicious."
+        },
+        {
+            "level": "Easy",
+            "spanish": "¿Tienes hermanos?",
+            "english": "Do you have siblings?"
+        },
+        {
+            "level": "Easy",
+            "spanish": "Mi mamá está en casa.",
+            "english": "My mom is at home."
+        },
+        {
+            "level": "Easy",
+            "spanish": "Mi papá trabaja mucho.",
+            "english": "My dad works a lot."
+        },
+        {
+            "level": "Easy",
+            "spanish": "Vamos al parque.",
+            "english": "Let’s go to the park."
+        },
+        {
+            "level": "Easy",
+            "spanish": "Hoy hace calor.",
+            "english": "It’s hot today."
+        },
+        {
+            "level": "Easy",
+            "spanish": "Estoy feliz.",
+            "english": "I’m happy."
+        },
+        {
+            "level": "Easy",
+            "spanish": "Tengo sueño.",
+            "english": "I’m sleepy."
+        },
+        {
+            "level": "Easy",
+            "spanish": "¿Qué es esto?",
+            "english": "What is this?"
+        },
+        {
+            "level": "Medium",
+            "spanish": "Ayer fui al mercado con mi abuela.",
+            "english": "Yesterday I went to the market with my grandmother."
+        },
+        {
+            "level": "Medium",
+            "spanish": "Mañana vamos a visitar a mis primos en Maracay.",
+            "english": "Tomorrow we’re going to visit my cousins in Maracay."
+        },
+        {
+            "level": "Medium",
+            "spanish": "Estoy buscando un regalo para el cumpleaños de mi hermano.",
+            "english": "I’m looking for a gift for my brother’s birthday."
+        },
+        {
+            "level": "Medium",
+            "spanish": "¿Has probado la arepa con queso y jamón?",
+            "english": "Have you tried arepa with cheese and ham?"
+        },
+        {
+            "level": "Medium",
+            "spanish": "Nos quedamos sin electricidad durante la tormenta.",
+            "english": "We lost power during the storm."
+        },
+        {
+            "level": "Medium",
+            "spanish": "Quiero aprender a tocar cuatro venezolano.",
+            "english": "I want to learn how to play the Venezuelan cuatro."
+        },
+        {
+            "level": "Medium",
+            "spanish": "He vivido aquí por más de diez años.",
+            "english": "I’ve lived here for more than ten years."
+        },
+        {
+            "level": "Medium",
+            "spanish": "Mi tío trabaja como ingeniero en una empresa petrolera.",
+            "english": "My uncle works as an engineer at an oil company."
+        },
+        {
+            "level": "Medium",
+            "spanish": "Estudié medicina, pero decidí ser maestro.",
+            "english": "I studied medicine, but decided to become a teacher."
+        },
+        {
+            "level": "Medium",
+            "spanish": "Cuando era niño, me gustaba correr en la playa.",
+            "english": "When I was a child, I liked to run on the beach."
+        },
+        {
+            "level": "Medium",
+            "spanish": "Ayer fui al mercado con mi abuela.",
+            "english": "Yesterday I went to the market with my grandmother."
+        },
+        {
+            "level": "Medium",
+            "spanish": "Mañana vamos a visitar a mis primos en Maracay.",
+            "english": "Tomorrow we’re going to visit my cousins in Maracay."
+        },
+        {
+            "level": "Medium",
+            "spanish": "Estoy buscando un regalo para el cumpleaños de mi hermano.",
+            "english": "I’m looking for a gift for my brother’s birthday."
+        },
+        {
+            "level": "Medium",
+            "spanish": "¿Has probado la arepa con queso y jamón?",
+            "english": "Have you tried arepa with cheese and ham?"
+        },
+        {
+            "level": "Medium",
+            "spanish": "Nos quedamos sin electricidad durante la tormenta.",
+            "english": "We lost power during the storm."
+        },
+        {
+            "level": "Medium",
+            "spanish": "Quiero aprender a tocar cuatro venezolano.",
+            "english": "I want to learn how to play the Venezuelan cuatro."
+        },
+        {
+            "level": "Medium",
+            "spanish": "He vivido aquí por más de diez años.",
+            "english": "I’ve lived here for more than ten years."
+        },
+        {
+            "level": "Medium",
+            "spanish": "Mi tío trabaja como ingeniero en una empresa petrolera.",
+            "english": "My uncle works as an engineer at an oil company."
+        },
+        {
+            "level": "Medium",
+            "spanish": "Estudié medicina, pero decidí ser maestro.",
+            "english": "I studied medicine, but decided to become a teacher."
+        },
+        {
+            "level": "Medium",
+            "spanish": "Cuando era niño, me gustaba correr en la playa.",
+            "english": "When I was a child, I liked to run on the beach."
+        },
+        {
+            "level": "Medium",
+            "spanish": "Ayer fui al mercado con mi abuela.",
+            "english": "Yesterday I went to the market with my grandmother."
+        },
+        {
+            "level": "Medium",
+            "spanish": "Mañana vamos a visitar a mis primos en Maracay.",
+            "english": "Tomorrow we’re going to visit my cousins in Maracay."
+        },
+        {
+            "level": "Medium",
+            "spanish": "Estoy buscando un regalo para el cumpleaños de mi hermano.",
+            "english": "I’m looking for a gift for my brother’s birthday."
+        },
+        {
+            "level": "Medium",
+            "spanish": "¿Has probado la arepa con queso y jamón?",
+            "english": "Have you tried arepa with cheese and ham?"
+        },
+        {
+            "level": "Medium",
+            "spanish": "Nos quedamos sin electricidad durante la tormenta.",
+            "english": "We lost power during the storm."
+        },
+        {
+            "level": "Medium",
+            "spanish": "Quiero aprender a tocar cuatro venezolano.",
+            "english": "I want to learn how to play the Venezuelan cuatro."
+        },
+        {
+            "level": "Medium",
+            "spanish": "He vivido aquí por más de diez años.",
+            "english": "I’ve lived here for more than ten years."
+        },
+        {
+            "level": "Medium",
+            "spanish": "Mi tío trabaja como ingeniero en una empresa petrolera.",
+            "english": "My uncle works as an engineer at an oil company."
+        },
+        {
+            "level": "Medium",
+            "spanish": "Estudié medicina, pero decidí ser maestro.",
+            "english": "I studied medicine, but decided to become a teacher."
+        },
+        {
+            "level": "Medium",
+            "spanish": "Cuando era niño, me gustaba correr en la playa.",
+            "english": "When I was a child, I liked to run on the beach."
+        },
+        {
+            "level": "Medium",
+            "spanish": "Ayer fui al mercado con mi abuela.",
+            "english": "Yesterday I went to the market with my grandmother."
+        },
+        {
+            "level": "Medium",
+            "spanish": "Mañana vamos a visitar a mis primos en Maracay.",
+            "english": "Tomorrow we’re going to visit my cousins in Maracay."
+        },
+        {
+            "level": "Medium",
+            "spanish": "Estoy buscando un regalo para el cumpleaños de mi hermano.",
+            "english": "I’m looking for a gift for my brother’s birthday."
+        },
+        {
+            "level": "Medium",
+            "spanish": "¿Has probado la arepa con queso y jamón?",
+            "english": "Have you tried arepa with cheese and ham?"
+        },
+        {
+            "level": "Medium",
+            "spanish": "Nos quedamos sin electricidad durante la tormenta.",
+            "english": "We lost power during the storm."
+        },
+        {
+            "level": "Medium",
+            "spanish": "Quiero aprender a tocar cuatro venezolano.",
+            "english": "I want to learn how to play the Venezuelan cuatro."
+        },
+        {
+            "level": "Medium",
+            "spanish": "He vivido aquí por más de diez años.",
+            "english": "I’ve lived here for more than ten years."
+        },
+        {
+            "level": "Medium",
+            "spanish": "Mi tío trabaja como ingeniero en una empresa petrolera.",
+            "english": "My uncle works as an engineer at an oil company."
+        },
+        {
+            "level": "Medium",
+            "spanish": "Estudié medicina, pero decidí ser maestro.",
+            "english": "I studied medicine, but decided to become a teacher."
+        },
+        {
+            "level": "Medium",
+            "spanish": "Cuando era niño, me gustaba correr en la playa.",
+            "english": "When I was a child, I liked to run on the beach."
+        },
+        {
+            "level": "Medium",
+            "spanish": "Ayer fui al mercado con mi abuela.",
+            "english": "Yesterday I went to the market with my grandmother."
+        },
+        {
+            "level": "Medium",
+            "spanish": "Mañana vamos a visitar a mis primos en Maracay.",
+            "english": "Tomorrow we’re going to visit my cousins in Maracay."
+        },
+        {
+            "level": "Medium",
+            "spanish": "Estoy buscando un regalo para el cumpleaños de mi hermano.",
+            "english": "I’m looking for a gift for my brother’s birthday."
+        },
+        {
+            "level": "Medium",
+            "spanish": "¿Has probado la arepa con queso y jamón?",
+            "english": "Have you tried arepa with cheese and ham?"
+        },
+        {
+            "level": "Medium",
+            "spanish": "Nos quedamos sin electricidad durante la tormenta.",
+            "english": "We lost power during the storm."
+        },
+        {
+            "level": "Medium",
+            "spanish": "Quiero aprender a tocar cuatro venezolano.",
+            "english": "I want to learn how to play the Venezuelan cuatro."
+        },
+        {
+            "level": "Medium",
+            "spanish": "He vivido aquí por más de diez años.",
+            "english": "I’ve lived here for more than ten years."
+        },
+        {
+            "level": "Medium",
+            "spanish": "Mi tío trabaja como ingeniero en una empresa petrolera.",
+            "english": "My uncle works as an engineer at an oil company."
+        },
+        {
+            "level": "Medium",
+            "spanish": "Estudié medicina, pero decidí ser maestro.",
+            "english": "I studied medicine, but decided to become a teacher."
+        },
+        {
+            "level": "Medium",
+            "spanish": "Cuando era niño, me gustaba correr en la playa.",
+            "english": "When I was a child, I liked to run on the beach."
+        },
+        {
+            "level": "Medium",
+            "spanish": "Ayer fui al mercado con mi abuela.",
+            "english": "Yesterday I went to the market with my grandmother."
+        },
+        {
+            "level": "Medium",
+            "spanish": "Mañana vamos a visitar a mis primos en Maracay.",
+            "english": "Tomorrow we’re going to visit my cousins in Maracay."
+        },
+        {
+            "level": "Medium",
+            "spanish": "Estoy buscando un regalo para el cumpleaños de mi hermano.",
+            "english": "I’m looking for a gift for my brother’s birthday."
+        },
+        {
+            "level": "Medium",
+            "spanish": "¿Has probado la arepa con queso y jamón?",
+            "english": "Have you tried arepa with cheese and ham?"
+        },
+        {
+            "level": "Medium",
+            "spanish": "Nos quedamos sin electricidad durante la tormenta.",
+            "english": "We lost power during the storm."
+        },
+        {
+            "level": "Medium",
+            "spanish": "Quiero aprender a tocar cuatro venezolano.",
+            "english": "I want to learn how to play the Venezuelan cuatro."
+        },
+        {
+            "level": "Medium",
+            "spanish": "He vivido aquí por más de diez años.",
+            "english": "I’ve lived here for more than ten years."
+        },
+        {
+            "level": "Medium",
+            "spanish": "Mi tío trabaja como ingeniero en una empresa petrolera.",
+            "english": "My uncle works as an engineer at an oil company."
+        },
+        {
+            "level": "Medium",
+            "spanish": "Estudié medicina, pero decidí ser maestro.",
+            "english": "I studied medicine, but decided to become a teacher."
+        },
+        {
+            "level": "Medium",
+            "spanish": "Cuando era niño, me gustaba correr en la playa.",
+            "english": "When I was a child, I liked to run on the beach."
+        },
+        {
+            "level": "Medium",
+            "spanish": "Ayer fui al mercado con mi abuela.",
+            "english": "Yesterday I went to the market with my grandmother."
+        },
+        {
+            "level": "Medium",
+            "spanish": "Mañana vamos a visitar a mis primos en Maracay.",
+            "english": "Tomorrow we’re going to visit my cousins in Maracay."
+        },
+        {
+            "level": "Medium",
+            "spanish": "Estoy buscando un regalo para el cumpleaños de mi hermano.",
+            "english": "I’m looking for a gift for my brother’s birthday."
+        },
+        {
+            "level": "Medium",
+            "spanish": "¿Has probado la arepa con queso y jamón?",
+            "english": "Have you tried arepa with cheese and ham?"
+        },
+        {
+            "level": "Medium",
+            "spanish": "Nos quedamos sin electricidad durante la tormenta.",
+            "english": "We lost power during the storm."
+        },
+        {
+            "level": "Medium",
+            "spanish": "Quiero aprender a tocar cuatro venezolano.",
+            "english": "I want to learn how to play the Venezuelan cuatro."
+        },
+        {
+            "level": "Medium",
+            "spanish": "He vivido aquí por más de diez años.",
+            "english": "I’ve lived here for more than ten years."
+        },
+        {
+            "level": "Medium",
+            "spanish": "Mi tío trabaja como ingeniero en una empresa petrolera.",
+            "english": "My uncle works as an engineer at an oil company."
+        },
+        {
+            "level": "Medium",
+            "spanish": "Estudié medicina, pero decidí ser maestro.",
+            "english": "I studied medicine, but decided to become a teacher."
+        },
+        {
+            "level": "Medium",
+            "spanish": "Cuando era niño, me gustaba correr en la playa.",
+            "english": "When I was a child, I liked to run on the beach."
+        },
+        {
+            "level": "Medium",
+            "spanish": "Ayer fui al mercado con mi abuela.",
+            "english": "Yesterday I went to the market with my grandmother."
+        },
+        {
+            "level": "Medium",
+            "spanish": "Mañana vamos a visitar a mis primos en Maracay.",
+            "english": "Tomorrow we’re going to visit my cousins in Maracay."
+        },
+        {
+            "level": "Medium",
+            "spanish": "Estoy buscando un regalo para el cumpleaños de mi hermano.",
+            "english": "I’m looking for a gift for my brother’s birthday."
+        },
+        {
+            "level": "Medium",
+            "spanish": "¿Has probado la arepa con queso y jamón?",
+            "english": "Have you tried arepa with cheese and ham?"
+        },
+        {
+            "level": "Medium",
+            "spanish": "Nos quedamos sin electricidad durante la tormenta.",
+            "english": "We lost power during the storm."
+        },
+        {
+            "level": "Medium",
+            "spanish": "Quiero aprender a tocar cuatro venezolano.",
+            "english": "I want to learn how to play the Venezuelan cuatro."
+        },
+        {
+            "level": "Medium",
+            "spanish": "He vivido aquí por más de diez años.",
+            "english": "I’ve lived here for more than ten years."
+        },
+        {
+            "level": "Medium",
+            "spanish": "Mi tío trabaja como ingeniero en una empresa petrolera.",
+            "english": "My uncle works as an engineer at an oil company."
+        },
+        {
+            "level": "Medium",
+            "spanish": "Estudié medicina, pero decidí ser maestro.",
+            "english": "I studied medicine, but decided to become a teacher."
+        },
+        {
+            "level": "Medium",
+            "spanish": "Cuando era niño, me gustaba correr en la playa.",
+            "english": "When I was a child, I liked to run on the beach."
+        },
+        {
+            "level": "Medium",
+            "spanish": "Ayer fui al mercado con mi abuela.",
+            "english": "Yesterday I went to the market with my grandmother."
+        },
+        {
+            "level": "Medium",
+            "spanish": "Mañana vamos a visitar a mis primos en Maracay.",
+            "english": "Tomorrow we’re going to visit my cousins in Maracay."
+        },
+        {
+            "level": "Medium",
+            "spanish": "Estoy buscando un regalo para el cumpleaños de mi hermano.",
+            "english": "I’m looking for a gift for my brother’s birthday."
+        },
+        {
+            "level": "Medium",
+            "spanish": "¿Has probado la arepa con queso y jamón?",
+            "english": "Have you tried arepa with cheese and ham?"
+        },
+        {
+            "level": "Medium",
+            "spanish": "Nos quedamos sin electricidad durante la tormenta.",
+            "english": "We lost power during the storm."
+        },
+        {
+            "level": "Medium",
+            "spanish": "Quiero aprender a tocar cuatro venezolano.",
+            "english": "I want to learn how to play the Venezuelan cuatro."
+        },
+        {
+            "level": "Medium",
+            "spanish": "He vivido aquí por más de diez años.",
+            "english": "I’ve lived here for more than ten years."
+        },
+        {
+            "level": "Medium",
+            "spanish": "Mi tío trabaja como ingeniero en una empresa petrolera.",
+            "english": "My uncle works as an engineer at an oil company."
+        },
+        {
+            "level": "Medium",
+            "spanish": "Estudié medicina, pero decidí ser maestro.",
+            "english": "I studied medicine, but decided to become a teacher."
+        },
+        {
+            "level": "Medium",
+            "spanish": "Cuando era niño, me gustaba correr en la playa.",
+            "english": "When I was a child, I liked to run on the beach."
+        },
+        {
+            "level": "Medium",
+            "spanish": "Ayer fui al mercado con mi abuela.",
+            "english": "Yesterday I went to the market with my grandmother."
+        },
+        {
+            "level": "Medium",
+            "spanish": "Mañana vamos a visitar a mis primos en Maracay.",
+            "english": "Tomorrow we’re going to visit my cousins in Maracay."
+        },
+        {
+            "level": "Medium",
+            "spanish": "Estoy buscando un regalo para el cumpleaños de mi hermano.",
+            "english": "I’m looking for a gift for my brother’s birthday."
+        },
+        {
+            "level": "Medium",
+            "spanish": "¿Has probado la arepa con queso y jamón?",
+            "english": "Have you tried arepa with cheese and ham?"
+        },
+        {
+            "level": "Medium",
+            "spanish": "Nos quedamos sin electricidad durante la tormenta.",
+            "english": "We lost power during the storm."
+        },
+        {
+            "level": "Medium",
+            "spanish": "Quiero aprender a tocar cuatro venezolano.",
+            "english": "I want to learn how to play the Venezuelan cuatro."
+        },
+        {
+            "level": "Medium",
+            "spanish": "He vivido aquí por más de diez años.",
+            "english": "I’ve lived here for more than ten years."
+        },
+        {
+            "level": "Medium",
+            "spanish": "Mi tío trabaja como ingeniero en una empresa petrolera.",
+            "english": "My uncle works as an engineer at an oil company."
+        },
+        {
+            "level": "Medium",
+            "spanish": "Estudié medicina, pero decidí ser maestro.",
+            "english": "I studied medicine, but decided to become a teacher."
+        },
+        {
+            "level": "Medium",
+            "spanish": "Cuando era niño, me gustaba correr en la playa.",
+            "english": "When I was a child, I liked to run on the beach."
+        },
+        {
+            "level": "Hard",
+            "spanish": "Si hubiera sabido que venías, habría preparado algo especial.",
+            "english": "If I had known you were coming, I would have prepared something special."
+        },
+        {
+            "level": "Hard",
+            "spanish": "Aunque estudie mucho, no siempre saco buenas notas.",
+            "english": "Even though I study a lot, I don’t always get good grades."
+        },
+        {
+            "level": "Hard",
+            "spanish": "Dudo que ella haya llegado a tiempo con ese tráfico.",
+            "english": "I doubt she arrived on time with that traffic."
+        },
+        {
+            "level": "Hard",
+            "spanish": "Ojalá que podamos ir a la playa este fin de semana.",
+            "english": "I hope we can go to the beach this weekend."
+        },
+        {
+            "level": "Hard",
+            "spanish": "Es importante que los niños coman frutas y verduras todos los días.",
+            "english": "It’s important that children eat fruits and vegetables every day."
+        },
+        {
+            "level": "Hard",
+            "spanish": "Quisiera que me hubieras dicho la verdad desde el principio.",
+            "english": "I wish you had told me the truth from the beginning."
+        },
+        {
+            "level": "Hard",
+            "spanish": "A menos que llueva, vamos a hacer la caminata mañana.",
+            "english": "Unless it rains, we’ll go for the hike tomorrow."
+        },
+        {
+            "level": "Hard",
+            "spanish": "No creo que él se haya olvidado de nuestra cita.",
+            "english": "I don’t think he forgot about our appointment."
+        },
+        {
+            "level": "Hard",
+            "spanish": "Si me hubieras escuchado, no estaríamos en este problema.",
+            "english": "If you had listened to me, we wouldn’t be in this problem."
+        },
+        {
+            "level": "Hard",
+            "spanish": "Me alegra que hayas venido a visitarnos.",
+            "english": "I’m glad you came to visit us."
+        },
+        {
+            "level": "Hard",
+            "spanish": "Si hubiera sabido que venías, habría preparado algo especial.",
+            "english": "If I had known you were coming, I would have prepared something special."
+        },
+        {
+            "level": "Hard",
+            "spanish": "Aunque estudie mucho, no siempre saco buenas notas.",
+            "english": "Even though I study a lot, I don’t always get good grades."
+        },
+        {
+            "level": "Hard",
+            "spanish": "Dudo que ella haya llegado a tiempo con ese tráfico.",
+            "english": "I doubt she arrived on time with that traffic."
+        },
+        {
+            "level": "Hard",
+            "spanish": "Ojalá que podamos ir a la playa este fin de semana.",
+            "english": "I hope we can go to the beach this weekend."
+        },
+        {
+            "level": "Hard",
+            "spanish": "Es importante que los niños coman frutas y verduras todos los días.",
+            "english": "It’s important that children eat fruits and vegetables every day."
+        },
+        {
+            "level": "Hard",
+            "spanish": "Quisiera que me hubieras dicho la verdad desde el principio.",
+            "english": "I wish you had told me the truth from the beginning."
+        },
+        {
+            "level": "Hard",
+            "spanish": "A menos que llueva, vamos a hacer la caminata mañana.",
+            "english": "Unless it rains, we’ll go for the hike tomorrow."
+        },
+        {
+            "level": "Hard",
+            "spanish": "No creo que él se haya olvidado de nuestra cita.",
+            "english": "I don’t think he forgot about our appointment."
+        },
+        {
+            "level": "Hard",
+            "spanish": "Si me hubieras escuchado, no estaríamos en este problema.",
+            "english": "If you had listened to me, we wouldn’t be in this problem."
+        },
+        {
+            "level": "Hard",
+            "spanish": "Me alegra que hayas venido a visitarnos.",
+            "english": "I’m glad you came to visit us."
+        },
+        {
+            "level": "Hard",
+            "spanish": "Si hubiera sabido que venías, habría preparado algo especial.",
+            "english": "If I had known you were coming, I would have prepared something special."
+        },
+        {
+            "level": "Hard",
+            "spanish": "Aunque estudie mucho, no siempre saco buenas notas.",
+            "english": "Even though I study a lot, I don’t always get good grades."
+        },
+        {
+            "level": "Hard",
+            "spanish": "Dudo que ella haya llegado a tiempo con ese tráfico.",
+            "english": "I doubt she arrived on time with that traffic."
+        },
+        {
+            "level": "Hard",
+            "spanish": "Ojalá que podamos ir a la playa este fin de semana.",
+            "english": "I hope we can go to the beach this weekend."
+        },
+        {
+            "level": "Hard",
+            "spanish": "Es importante que los niños coman frutas y verduras todos los días.",
+            "english": "It’s important that children eat fruits and vegetables every day."
+        },
+        {
+            "level": "Hard",
+            "spanish": "Quisiera que me hubieras dicho la verdad desde el principio.",
+            "english": "I wish you had told me the truth from the beginning."
+        },
+        {
+            "level": "Hard",
+            "spanish": "A menos que llueva, vamos a hacer la caminata mañana.",
+            "english": "Unless it rains, we’ll go for the hike tomorrow."
+        },
+        {
+            "level": "Hard",
+            "spanish": "No creo que él se haya olvidado de nuestra cita.",
+            "english": "I don’t think he forgot about our appointment."
+        },
+        {
+            "level": "Hard",
+            "spanish": "Si me hubieras escuchado, no estaríamos en este problema.",
+            "english": "If you had listened to me, we wouldn’t be in this problem."
+        },
+        {
+            "level": "Hard",
+            "spanish": "Me alegra que hayas venido a visitarnos.",
+            "english": "I’m glad you came to visit us."
+        },
+        {
+            "level": "Hard",
+            "spanish": "Si hubiera sabido que venías, habría preparado algo especial.",
+            "english": "If I had known you were coming, I would have prepared something special."
+        },
+        {
+            "level": "Hard",
+            "spanish": "Aunque estudie mucho, no siempre saco buenas notas.",
+            "english": "Even though I study a lot, I don’t always get good grades."
+        },
+        {
+            "level": "Hard",
+            "spanish": "Dudo que ella haya llegado a tiempo con ese tráfico.",
+            "english": "I doubt she arrived on time with that traffic."
+        },
+        {
+            "level": "Hard",
+            "spanish": "Ojalá que podamos ir a la playa este fin de semana.",
+            "english": "I hope we can go to the beach this weekend."
+        },
+        {
+            "level": "Hard",
+            "spanish": "Es importante que los niños coman frutas y verduras todos los días.",
+            "english": "It’s important that children eat fruits and vegetables every day."
+        },
+        {
+            "level": "Hard",
+            "spanish": "Quisiera que me hubieras dicho la verdad desde el principio.",
+            "english": "I wish you had told me the truth from the beginning."
+        },
+        {
+            "level": "Hard",
+            "spanish": "A menos que llueva, vamos a hacer la caminata mañana.",
+            "english": "Unless it rains, we’ll go for the hike tomorrow."
+        },
+        {
+            "level": "Hard",
+            "spanish": "No creo que él se haya olvidado de nuestra cita.",
+            "english": "I don’t think he forgot about our appointment."
+        },
+        {
+            "level": "Hard",
+            "spanish": "Si me hubieras escuchado, no estaríamos en este problema.",
+            "english": "If you had listened to me, we wouldn’t be in this problem."
+        },
+        {
+            "level": "Hard",
+            "spanish": "Me alegra que hayas venido a visitarnos.",
+            "english": "I’m glad you came to visit us."
+        },
+        {
+            "level": "Hard",
+            "spanish": "Si hubiera sabido que venías, habría preparado algo especial.",
+            "english": "If I had known you were coming, I would have prepared something special."
+        },
+        {
+            "level": "Hard",
+            "spanish": "Aunque estudie mucho, no siempre saco buenas notas.",
+            "english": "Even though I study a lot, I don’t always get good grades."
+        },
+        {
+            "level": "Hard",
+            "spanish": "Dudo que ella haya llegado a tiempo con ese tráfico.",
+            "english": "I doubt she arrived on time with that traffic."
+        },
+        {
+            "level": "Hard",
+            "spanish": "Ojalá que podamos ir a la playa este fin de semana.",
+            "english": "I hope we can go to the beach this weekend."
+        },
+        {
+            "level": "Hard",
+            "spanish": "Es importante que los niños coman frutas y verduras todos los días.",
+            "english": "It’s important that children eat fruits and vegetables every day."
+        },
+        {
+            "level": "Hard",
+            "spanish": "Quisiera que me hubieras dicho la verdad desde el principio.",
+            "english": "I wish you had told me the truth from the beginning."
+        },
+        {
+            "level": "Hard",
+            "spanish": "A menos que llueva, vamos a hacer la caminata mañana.",
+            "english": "Unless it rains, we’ll go for the hike tomorrow."
+        },
+        {
+            "level": "Hard",
+            "spanish": "No creo que él se haya olvidado de nuestra cita.",
+            "english": "I don’t think he forgot about our appointment."
+        },
+        {
+            "level": "Hard",
+            "spanish": "Si me hubieras escuchado, no estaríamos en este problema.",
+            "english": "If you had listened to me, we wouldn’t be in this problem."
+        },
+        {
+            "level": "Hard",
+            "spanish": "Me alegra que hayas venido a visitarnos.",
+            "english": "I’m glad you came to visit us."
+        },
+        {
+            "level": "Hard",
+            "spanish": "Si hubiera sabido que venías, habría preparado algo especial.",
+            "english": "If I had known you were coming, I would have prepared something special."
+        },
+        {
+            "level": "Hard",
+            "spanish": "Aunque estudie mucho, no siempre saco buenas notas.",
+            "english": "Even though I study a lot, I don’t always get good grades."
+        },
+        {
+            "level": "Hard",
+            "spanish": "Dudo que ella haya llegado a tiempo con ese tráfico.",
+            "english": "I doubt she arrived on time with that traffic."
+        },
+        {
+            "level": "Hard",
+            "spanish": "Ojalá que podamos ir a la playa este fin de semana.",
+            "english": "I hope we can go to the beach this weekend."
+        },
+        {
+            "level": "Hard",
+            "spanish": "Es importante que los niños coman frutas y verduras todos los días.",
+            "english": "It’s important that children eat fruits and vegetables every day."
+        },
+        {
+            "level": "Hard",
+            "spanish": "Quisiera que me hubieras dicho la verdad desde el principio.",
+            "english": "I wish you had told me the truth from the beginning."
+        },
+        {
+            "level": "Hard",
+            "spanish": "A menos que llueva, vamos a hacer la caminata mañana.",
+            "english": "Unless it rains, we’ll go for the hike tomorrow."
+        },
+        {
+            "level": "Hard",
+            "spanish": "No creo que él se haya olvidado de nuestra cita.",
+            "english": "I don’t think he forgot about our appointment."
+        },
+        {
+            "level": "Hard",
+            "spanish": "Si me hubieras escuchado, no estaríamos en este problema.",
+            "english": "If you had listened to me, we wouldn’t be in this problem."
+        },
+        {
+            "level": "Hard",
+            "spanish": "Me alegra que hayas venido a visitarnos.",
+            "english": "I’m glad you came to visit us."
+        },
+        {
+            "level": "Hard",
+            "spanish": "Si hubiera sabido que venías, habría preparado algo especial.",
+            "english": "If I had known you were coming, I would have prepared something special."
+        },
+        {
+            "level": "Hard",
+            "spanish": "Aunque estudie mucho, no siempre saco buenas notas.",
+            "english": "Even though I study a lot, I don’t always get good grades."
+        },
+        {
+            "level": "Hard",
+            "spanish": "Dudo que ella haya llegado a tiempo con ese tráfico.",
+            "english": "I doubt she arrived on time with that traffic."
+        },
+        {
+            "level": "Hard",
+            "spanish": "Ojalá que podamos ir a la playa este fin de semana.",
+            "english": "I hope we can go to the beach this weekend."
+        },
+        {
+            "level": "Hard",
+            "spanish": "Es importante que los niños coman frutas y verduras todos los días.",
+            "english": "It’s important that children eat fruits and vegetables every day."
+        },
+        {
+            "level": "Hard",
+            "spanish": "Quisiera que me hubieras dicho la verdad desde el principio.",
+            "english": "I wish you had told me the truth from the beginning."
+        },
+        {
+            "level": "Hard",
+            "spanish": "A menos que llueva, vamos a hacer la caminata mañana.",
+            "english": "Unless it rains, we’ll go for the hike tomorrow."
+        },
+        {
+            "level": "Hard",
+            "spanish": "No creo que él se haya olvidado de nuestra cita.",
+            "english": "I don’t think he forgot about our appointment."
+        },
+        {
+            "level": "Hard",
+            "spanish": "Si me hubieras escuchado, no estaríamos en este problema.",
+            "english": "If you had listened to me, we wouldn’t be in this problem."
+        },
+        {
+            "level": "Hard",
+            "spanish": "Me alegra que hayas venido a visitarnos.",
+            "english": "I’m glad you came to visit us."
+        },
+        {
+            "level": "Hard",
+            "spanish": "Si hubiera sabido que venías, habría preparado algo especial.",
+            "english": "If I had known you were coming, I would have prepared something special."
+        },
+        {
+            "level": "Hard",
+            "spanish": "Aunque estudie mucho, no siempre saco buenas notas.",
+            "english": "Even though I study a lot, I don’t always get good grades."
+        },
+        {
+            "level": "Hard",
+            "spanish": "Dudo que ella haya llegado a tiempo con ese tráfico.",
+            "english": "I doubt she arrived on time with that traffic."
+        },
+        {
+            "level": "Hard",
+            "spanish": "Ojalá que podamos ir a la playa este fin de semana.",
+            "english": "I hope we can go to the beach this weekend."
+        },
+        {
+            "level": "Hard",
+            "spanish": "Es importante que los niños coman frutas y verduras todos los días.",
+            "english": "It’s important that children eat fruits and vegetables every day."
+        },
+        {
+            "level": "Hard",
+            "spanish": "Quisiera que me hubieras dicho la verdad desde el principio.",
+            "english": "I wish you had told me the truth from the beginning."
+        },
+        {
+            "level": "Hard",
+            "spanish": "A menos que llueva, vamos a hacer la caminata mañana.",
+            "english": "Unless it rains, we’ll go for the hike tomorrow."
+        },
+        {
+            "level": "Hard",
+            "spanish": "No creo que él se haya olvidado de nuestra cita.",
+            "english": "I don’t think he forgot about our appointment."
+        },
+        {
+            "level": "Hard",
+            "spanish": "Si me hubieras escuchado, no estaríamos en este problema.",
+            "english": "If you had listened to me, we wouldn’t be in this problem."
+        },
+        {
+            "level": "Hard",
+            "spanish": "Me alegra que hayas venido a visitarnos.",
+            "english": "I’m glad you came to visit us."
+        },
+        {
+            "level": "Hard",
+            "spanish": "Si hubiera sabido que venías, habría preparado algo especial.",
+            "english": "If I had known you were coming, I would have prepared something special."
+        },
+        {
+            "level": "Hard",
+            "spanish": "Aunque estudie mucho, no siempre saco buenas notas.",
+            "english": "Even though I study a lot, I don’t always get good grades."
+        },
+        {
+            "level": "Hard",
+            "spanish": "Dudo que ella haya llegado a tiempo con ese tráfico.",
+            "english": "I doubt she arrived on time with that traffic."
+        },
+        {
+            "level": "Hard",
+            "spanish": "Ojalá que podamos ir a la playa este fin de semana.",
+            "english": "I hope we can go to the beach this weekend."
+        },
+        {
+            "level": "Hard",
+            "spanish": "Es importante que los niños coman frutas y verduras todos los días.",
+            "english": "It’s important that children eat fruits and vegetables every day."
+        },
+        {
+            "level": "Hard",
+            "spanish": "Quisiera que me hubieras dicho la verdad desde el principio.",
+            "english": "I wish you had told me the truth from the beginning."
+        },
+        {
+            "level": "Hard",
+            "spanish": "A menos que llueva, vamos a hacer la caminata mañana.",
+            "english": "Unless it rains, we’ll go for the hike tomorrow."
+        },
+        {
+            "level": "Hard",
+            "spanish": "No creo que él se haya olvidado de nuestra cita.",
+            "english": "I don’t think he forgot about our appointment."
+        },
+        {
+            "level": "Hard",
+            "spanish": "Si me hubieras escuchado, no estaríamos en este problema.",
+            "english": "If you had listened to me, we wouldn’t be in this problem."
+        },
+        {
+            "level": "Hard",
+            "spanish": "Me alegra que hayas venido a visitarnos.",
+            "english": "I’m glad you came to visit us."
+        },
+        {
+            "level": "Hard",
+            "spanish": "Si hubiera sabido que venías, habría preparado algo especial.",
+            "english": "If I had known you were coming, I would have prepared something special."
+        },
+        {
+            "level": "Hard",
+            "spanish": "Aunque estudie mucho, no siempre saco buenas notas.",
+            "english": "Even though I study a lot, I don’t always get good grades."
+        },
+        {
+            "level": "Hard",
+            "spanish": "Dudo que ella haya llegado a tiempo con ese tráfico.",
+            "english": "I doubt she arrived on time with that traffic."
+        },
+        {
+            "level": "Hard",
+            "spanish": "Ojalá que podamos ir a la playa este fin de semana.",
+            "english": "I hope we can go to the beach this weekend."
+        },
+        {
+            "level": "Hard",
+            "spanish": "Es importante que los niños coman frutas y verduras todos los días.",
+            "english": "It’s important that children eat fruits and vegetables every day."
+        },
+        {
+            "level": "Hard",
+            "spanish": "Quisiera que me hubieras dicho la verdad desde el principio.",
+            "english": "I wish you had told me the truth from the beginning."
+        },
+        {
+            "level": "Hard",
+            "spanish": "A menos que llueva, vamos a hacer la caminata mañana.",
+            "english": "Unless it rains, we’ll go for the hike tomorrow."
+        },
+        {
+            "level": "Hard",
+            "spanish": "No creo que él se haya olvidado de nuestra cita.",
+            "english": "I don’t think he forgot about our appointment."
+        },
+        {
+            "level": "Hard",
+            "spanish": "Si me hubieras escuchado, no estaríamos en este problema.",
+            "english": "If you had listened to me, we wouldn’t be in this problem."
+        },
+        {
+            "level": "Hard",
+            "spanish": "Me alegra que hayas venido a visitarnos.",
+            "english": "I’m glad you came to visit us."
+        }
+]
